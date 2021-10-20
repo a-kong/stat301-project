@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"ID","INTEGER","10","10","0"
+"CITY","STRING","25","0","0"
+"NICKNAME","STRING","13","0","0"
+"YEARFOUNDED","INTEGER","4","4","0"
+"YEARACTIVETILL","INTEGER","4","4","0"

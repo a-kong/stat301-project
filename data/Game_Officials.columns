@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"OFFICIAL_ID","INTEGER","7","7","0"
+"FIRST_NAME","STRING","9","0","0"
+"LAST_NAME","STRING","12","0","0"
+"JERSEY_NUM","STRING","4","2","0"
+"GAME_ID","INTEGER","10","10","0"
