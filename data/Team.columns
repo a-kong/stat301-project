@@ -1,8 +1,0 @@
-"name","type","length","leftDigits","rightDigits"
-"id","INTEGER","10","10","0"
-"full_name","STRING","22","0","0"
-"abbreviation","STRING","3","0","0"
-"nickname","STRING","13","0","0"
-"city","STRING","13","0","0"
-"state","STRING","20","0","0"
-"year_founded","INTEGER","4","4","0"

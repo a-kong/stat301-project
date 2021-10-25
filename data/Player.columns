@@ -1,6 +1,0 @@
-"name","type","length","leftDigits","rightDigits"
-"id","INTEGER","7","7","0"
-"full_name","STRING","24","0","0"
-"first_name","STRING","15","0","0"
-"last_name","STRING","18","0","0"
-"is_active","INTEGER","1","1","0"
